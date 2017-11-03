@@ -1,5 +1,7 @@
 # ROBOT
 
+[![Build Status](https://travis-ci.org/claudiosteuernagel/robot.svg?branch=master)](https://travis-ci.org/claudiosteuernagel/robot)
+
 #### Aplicação desenvolvida utilizando:
 - Java 8
 - Maven
@@ -19,4 +21,3 @@ mvn spring-boot:run
 ```
 curl -s --request POST http://localhost:8080/rest/mars/MML
 ```
-
