@@ -1,0 +1,5 @@
+org/nasa/robot/domain/Direcao.class
+org/nasa/robot/service/RoboService.class
+org/nasa/robot/domain/Robo.class
+org/nasa/robot/controller/RoboController.class
+org/nasa/robot/springboot/Application.class
